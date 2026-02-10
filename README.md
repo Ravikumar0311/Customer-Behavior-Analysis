@@ -79,8 +79,6 @@ The dataset contains customer-level transactional and demographic information.
 
 # 📈 Dashboard Overview
 
-![alt-text](https://github.com/Ravikumar0311/Customer-Behavior-Analysis/blob/main/Customer%20Behavior%20Analysis.png)
-
 The Power BI dashboard provides a comprehensive view of customer behavior:
 
 - Total number of customers
@@ -98,7 +96,7 @@ The Power BI dashboard provides a comprehensive view of customer behavior:
 - Interactive filters for gender, category, subscription status, and shipping type
 
 **📷 Dashboard Preview:**
-
+  ![alt-text](https://github.com/Ravikumar0311/Customer-Behavior-Analysis/blob/main/Customer%20Behavior%20Analysis.png)
 
 # 📊 Key Results & Insights
 
