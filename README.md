@@ -79,7 +79,7 @@ The dataset contains customer-level transactional and demographic information.
 
 # 📈 Dashboard Overview
 
-![alt-text](
+![alt-text](https://github.com/Ravikumar0311/Customer-Behavior-Analysis/blob/main/Customer%20Behavior%20Analysis.png)
 
 The Power BI dashboard provides a comprehensive view of customer behavior:
 
